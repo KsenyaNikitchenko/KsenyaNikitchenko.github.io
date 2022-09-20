@@ -1,0 +1,71 @@
+div,
+nav {
+    background-color: rgb(160, 231, 231);
+    border: 5px solid white;
+    font-family: "Times New Roman", monotype;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    margin: 0 20% 0 20%;
+    padding: 4px;
+    width: 60%;
+}
+
+header {
+    background-color: rgb(98, 177, 177);
+    width: 100%;
+}
+
+#название {
+    background-color: rgb(98, 177, 177);
+    border: none;
+    height: 140px;
+    margin: 0 25% 0 25%;
+    text-align: left;
+}
+
+#logo {
+    float: left;
+    height: 100px;
+    margin: 10px;
+    width: 150px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    font-style: oblique;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid rgb(86, 86, 86);
+    background-color: white;
+    text-align: center;
+    width: 300px;
+}
+
+th,
+td {
+    border: 1px solid grey;
+    width: auto;
+}
+
+tr:nth-child(2n) {
+    background: rgb(192, 190, 190);
+}
+
+footer {
+    background-color: rgb(98, 177, 177);
+    text-align: left;
+    font-style: oblique;
+    width: 100%;
+}
