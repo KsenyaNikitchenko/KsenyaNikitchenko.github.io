@@ -6,7 +6,7 @@ nav {
     font-weight: 400;
     font-style: normal;
     text-align: left;
-    margin: 0 150px;
+    margin: 0 auto;
     padding: 4px;
     width: 960px;
 }
@@ -19,7 +19,7 @@ header {
     background-color: rgb(98, 177, 177);
     border: none;
     height: 140px;
-    margin: 0 150px;
+    margin: 0 auto;
     text-align: left;
 }
 
